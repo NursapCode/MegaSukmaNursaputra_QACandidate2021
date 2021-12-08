@@ -1,0 +1,20 @@
+{
+    "devDependencies": {
+        "express": "^4.17.1",
+        "jest": "^27.4.3",
+        "jest-extended": "^1.2.0",
+        "supertest": "^6.1.6"
+    },
+    "dependencies": {
+        "@babel/core": "^7.16.0",
+        "@babel/preset-env": "^7.16.4",
+        "axios": "^0.24.0",
+        "babel-jest": "^27.4.2"
+    },
+    "jest": {
+        "verbose": true
+    },
+    "scripts": {
+        "test": "jest"
+    }
+}
