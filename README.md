@@ -1,3 +1,2 @@
 # QuadrantTest
-Quadrant Test Repository
 MegaSukmaNursaputra_QACandidate2021
